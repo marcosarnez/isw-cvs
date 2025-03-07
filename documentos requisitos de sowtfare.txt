@@ -20,5 +20,4 @@
 
 ### 2.3. Requisitos no Funcionales 
 
-### 2.4.
 
