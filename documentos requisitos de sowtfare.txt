@@ -15,10 +15,27 @@
 ## 2. Requisitos.
 
 ### 2.1. Requisitos Funcionales 
+- Registar usuario
+- iniciar sesion
+- subir videos
+- editar videos
+- explorar contenido
+- buscar contenido
+- seguir usuarios para apoyarlos y hacerlos viral
+- notificar 
+- reportar contenido 
+- configurar privacidad
+- Integrar musica
+- Recomendar contedido personalizados
+- editar contedido de otro usuario personalizado (duetos)
+- restriccionar contenido de racismo, maltrato animal y violencia
+- elegir idioma 
+
+
 
 ### 2.2. Requisitos de Diseño.
 
 ### 2.3. Requisitos no Funcionales 
 
-### 2.4.
+
 
