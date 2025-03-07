@@ -7,11 +7,19 @@
 ### 1.2. Valor del Producto.
 
 ### 1.3. Público Objetivo.
-
+Esta dirigido a un publico general que comprende todas las edades y de cualquier nacion, origen o cultura.
 ### 1.4. Uso Previsto.
-
+- Entretenimiento con videos de su agrado
+- Diversion con juegos entretenidos
+- Creacion de contenido de la forma mas dinamica
+- interaccion social
+- Marketing y publicidad
+- Educacion
 ### 1.5. Descripción General.
-
+En resumen podemos decir que la aplicacion tiene como objetivo el entretenimiento e interaccion social, 
+llevando a las personas a desarrollar sus habilidades creativas y sociales, impulsando asi mismo el 
+crecimiento educativo de cada usuario debido a la amplia variedad de videos y al gran alcance que 
+tiene la red a nivel mundial.
 ## 2. Requisitos.
 
 ### 2.1. Requisitos Funcionales 
