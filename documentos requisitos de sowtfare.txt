@@ -35,7 +35,6 @@
 
 ### 2.2. Requisitos de Diseño.
 
-### 2.3. Requisitos no Funcionales 
-
+### 2.3. Requisitos no Funcionales.
 
 
