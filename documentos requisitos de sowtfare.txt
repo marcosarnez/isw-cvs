@@ -3,9 +3,12 @@
 ## 1. Introduccion.
 
 ### 1.1. Alcance del Producto.
-
+-Se espera que el producto escale con el tiempo
+-Se espera una alta demanda de usuarios
 ### 1.2. Valor del Producto.
-
+-Canales de noticias podran informar a los usuarios mas Jovenes mediante videos en la aplicacion.
+-Entretenimiento para todo publico
+-Se permite contenido muy variado y se promueve el aprendizaje
 ### 1.3. Público Objetivo.
 Esta dirigido a un publico general que comprende todas las edades y de cualquier nacion, origen o cultura.
 ### 1.4. Uso Previsto.
