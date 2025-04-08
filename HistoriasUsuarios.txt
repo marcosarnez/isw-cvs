@@ -1,0 +1,55 @@
+Historia de usuario 1
+
+Como joven independiente
+Quiero lavar ropa por colores 
+Para verme bien mañana y no manchar mi ropa 
+
+Criterios de aceptacion 
+1. Lavar bien por colores 
+2. Mezclar rojo y blanco
+3. Mezclar amarillo y azul
+
+
+Historia de usuario 2 
+Como joven deportista
+Quiero jugar basquetbol
+Para estar en en forma y sano
+
+Criterios de aceptacion
+1. Practicar en una cancha
+2. Llueve
+3. Las ganas y motivacion 
+
+
+Historia de usuario 3
+Como estudiante de IA
+Quiero programar aplicaciones 
+Para ser un buen programador 
+
+Criterios de aceptacion 
+1. Programar aplicaciones
+2. No hay wifi
+3. Uso de herramientas de ia
+
+
+Historia de usuario 4
+Como joven higienico
+Quiero sepillarme los dientes 
+Para estar una buena higiene de boca
+
+Criterios de aceptacion 
+1. Sepillarme los dientes 
+2. Falta de higiene hace 1 mes
+3. Colino o shampo
+
+
+Historia de usuario 5
+Como joven deportista
+Quiero jugar futsal
+Para estar en forma y sano
+
+Criterios de aceptacion 
+1. Jugar basquetbol
+2. Lluvia
+3. Ganas o motivacion 
+
